@@ -1,8 +1,8 @@
-
 author: M P Fass
-title: UNDER CONSTRUCTION
+title: another webbed site
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-archives
 
-remote_theme: heiswayi/the-plain
+theme: academic-jekyll-theme
